@@ -1,0 +1,1 @@
+This repository contains the python code for estimating the Mixture of Kato-Jones distribution described in Kota Nagasaki, Shogo Kato, Wataru Nakanishi, M. C. Jones: Traffic Count Data Analysis Using Mixtures of Kato--Jones Distributions, Journal of the Royal Statistical Society Series C (Applied Statistics), in press.
